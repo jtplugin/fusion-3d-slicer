@@ -52,14 +52,17 @@ https://github.com/jtplugin/fusion360-3d-slicer/assets/demo-3d-slicer-pro.mp4
 
 ### Plugin Interface
 ![Plugin Dialog](screenshots/01-dialog-interface.png)
+
 *Clean, intuitive interface with real-time calculations*
 
 ### Before & After
 ![Before After](screenshots/02-before-after-comparison.png)
+
 *From solid 3D model to laser-cut ready parts*
 
 ### Timeline Organization
 ![Timeline](screenshots/03-timeline-organized.png)
+
 *Smart timeline management keeps your project organized*
 
 ## 🎯 Use Cases
