@@ -1,4 +1,4 @@
-# JT 3D Slicer - Professional 3D Slicing for Fusion 360
+# JT 3D Slicer - Professional 3D Slicing for Fusion
 
 **Transform your 3D models into precise slices for laser cutting, CNC machining, and rapid prototyping with JT 3D Slicer - the essential tool for makers, engineers, and designers.**
 
@@ -6,7 +6,7 @@
 
 ## 🚀 What is JT 3D Slicer?
 
-JT 3D Slicer is a powerful Fusion 360 add-in that automatically converts your 3D models into flat cross-sections (slices) along any axis. Perfect for laser cutting, CNC machining, cardboard prototyping, and educational projects.
+JT 3D Slicer is a powerful Fusion add-in that automatically converts your 3D models into flat cross-sections (slices) along any axis. Perfect for laser cutting, CNC machining, cardboard prototyping, and educational projects.
 
 **Key Benefits:**
 - ✅ **Instant Slicing**: Convert any 3D model to manufacturable slices in seconds
@@ -110,7 +110,7 @@ JT 3D Slicer is a powerful Fusion 360 add-in that automatically converts your 3D
 - Professional-quality output
 
 ### ✅ **Integrated Workflow**
-- Native Fusion 360 integration
+- Native Fusion integration
 - Preserves your design history
 - Works with existing modeling workflow
 
@@ -136,7 +136,7 @@ JT 3D Slicer is a powerful Fusion 360 add-in that automatically converts your 3D
 
 ## 🛠️ Technical Requirements
 
-- **Fusion 360 Version**: 2.0.18000 or later
+- **Fusion Version**: 2.0.18000 or later
 - **Operating System**: Windows 10/11, macOS 10.14+
 - **License**: Free version available, Pro version $9.99
 
@@ -162,8 +162,8 @@ JT 3D Slicer is a powerful Fusion 360 add-in that automatically converts your 3D
 
 **Ready to transform your 3D workflow?** 
 
-Download JT 3D Slicer now and see why thousands of Fusion 360 users trust it for their slicing needs.
+Download JT 3D Slicer now and see why thousands of Fusion users trust it for their slicing needs.
 
 ---
 
-*Developed by JT Plugin Development | Support: gianni.tommasi@gmail.com | Website: github.com/jtplugin*
+*Developed by JT Plugin Development | Support: jtplugin@ajl.vision | Website: github.com/jtplugin*
