@@ -5,11 +5,11 @@
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using the JT 3D Slicer plugin ("the Plugin") for Autodesk Fusion 360, you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the Plugin.
+By downloading, installing, or using the JT 3D Slicer plugin ("the Plugin") for Autodesk Fusion, you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the Plugin.
 
 ## 2. About JT 3D Slicer
 
-JT 3D Slicer is a plugin for Autodesk Fusion 360 developed by Giovanni Tommasi ("JT Plugin Development", "we", "us", or "our") that enables users to slice 3D bodies into multiple parts along specified axes for manufacturing, prototyping, and design purposes.
+JT 3D Slicer is a plugin for Autodesk Fusion developed by Giovanni Tommasi ("JT Plugin Development", "we", "us", or "our") that enables users to slice 3D bodies into multiple parts along specified axes for manufacturing, prototyping, and design purposes.
 
 ## 3. License Grant
 
@@ -44,7 +44,7 @@ You may NOT:
 - Use the Plugin for illegal activities
 - Attempt to circumvent licensing restrictions
 - Share Pro license keys with unauthorized users
-- Use the Plugin in ways that could damage Autodesk Fusion 360 or other software
+- Use the Plugin in ways that could damage Autodesk Fusion or other software
 
 ## 6. Intellectual Property
 
@@ -54,8 +54,8 @@ JT 3D Slicer, including all code, algorithms, and documentation, is the intellec
 ### 6.2 Your Content
 You retain ownership of all designs, models, and content you create using the Plugin. We claim no ownership over your original work.
 
-### 6.3 Fusion 360 Integration
-This Plugin integrates with Autodesk Fusion 360. Autodesk's terms and conditions apply to your use of Fusion 360. We are not affiliated with Autodesk.
+### 6.3 Fusion Integration
+This Plugin integrates with Autodesk Fusion. Autodesk's terms and conditions apply to your use of Fusion. We are not affiliated with Autodesk.
 
 ## 7. Payment and Refunds
 
@@ -88,7 +88,7 @@ THE PLUGIN IS PROVIDED "AS IS" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIE
 We do not guarantee that the Plugin will:
 - Be error-free or uninterrupted
 - Meet your specific requirements
-- Be compatible with future Fusion 360 versions
+- Be compatible with future Fusion versions
 - Produce results suitable for your intended use
 
 ### 9.3 Limitation of Liability
@@ -152,7 +152,7 @@ These Terms, together with our Privacy Policy, constitute the entire agreement b
 For questions about these Terms or the Plugin, contact us at:
 
 **JT Plugin Development**  
-Email: gianni.tommasi@gmail.com  
+Email: jtplugin@ajl.vision  
 Website: https://github.com/jtplugin  
 Support: https://jtplugin.github.io/privacy-policy
 
