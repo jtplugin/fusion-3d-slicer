@@ -11,7 +11,7 @@
 JT 3D Slicer is a powerful plugin for Autodesk Fusion that enables you to slice 3D bodies into multiple parts along specified axes. Perfect for laser cutting, CNC machining, 3D printing preparation, and manufacturing workflows where you need to split objects into manageable pieces.
 
 The plugin is available in two versions:
-- **Free Version:** Basic slicing with limitations
+- **Trial Version:** Basic slicing with limitations
 - **Pro Version:** Full-featured slicing with advanced capabilities
 
 ---
@@ -32,7 +32,7 @@ The plugin is available in two versions:
 ### Step 3: Configure Slicing Parameters
 1. **Slice Thickness:** Enter the desired thickness for each slice (in current units)
 2. **Slice Axis:** Choose the direction for slicing:
-   - **Z-axis:** Horizontal slices (Free & Pro)
+   - **Z-axis:** Horizontal slices (Trial & Pro)
    - **X-axis:** Vertical slices along width (Pro only)
    - **Y-axis:** Vertical slices along depth (Pro only)
 3. **Name Prefix:** Customize the naming pattern for sliced parts (Pro only)
@@ -45,9 +45,9 @@ The plugin is available in two versions:
 
 ---
 
-## 🆓 Free Version Features
+## 🆓 Trial Version Features
 
-The free version provides essential slicing capabilities:
+The trial version provides essential slicing capabilities:
 
 ### ✅ Included Features:
 - **Basic Slicing:** Up to 10 slices per operation
@@ -62,7 +62,7 @@ The free version provides essential slicing capabilities:
 - No custom naming options
 - No X/Y axis slicing
 
-### 💡 Free Version Workflow:
+### 💡 Trial Version Workflow:
 1. Select body to slice
 2. Set slice thickness (minimum 0.1mm)
 3. Plugin automatically calculates slice count
@@ -115,7 +115,7 @@ The Pro version unlocks the full potential of 3D slicing:
 - **Automatic Orientation:** Respects current component orientation
 
 ### Naming Conventions
-**Free Version:**
+**Trial Version:**
 - Format: `[BodyName]_Slice_01`, `[BodyName]_Slice_02`, etc.
 - Automatic numbering with zero-padding
 - No customization options
@@ -173,7 +173,7 @@ The Pro version automatically creates organized timeline groups:
 - **Software:** Autodesk Fusion (Version 2.0.18000 or later)
 - **Operating System:** Windows 10/11, macOS 10.15+
 - **Memory:** Minimum 8GB RAM recommended
-- **Storage:** 50MB free space for plugin files
+- **Storage:** 50MB trial space for plugin files
 
 ### Performance Guidelines
 - **Optimal Slice Count:** 5-50 slices for best performance
@@ -204,7 +204,7 @@ The Pro version automatically creates organized timeline groups:
 - Check document units and scale
 
 **"Too many slices calculated"**
-- Free version: Reduce thickness or upgrade to Pro
+- Trial version: Reduce thickness or upgrade to Pro
 - Pro version: Confirm intention for large slice count
 - Consider body size vs. thickness ratio
 
@@ -228,7 +228,7 @@ The Pro version automatically creates organized timeline groups:
 
 ## 📞 Support and Contact
 
-### Free Version Support
+### Trial Version Support
 - **Documentation:** This help page and GitHub repository
 - **Community:** GitHub Issues and discussions
 - **Updates:** Automatic through Autodesk App Store
@@ -250,7 +250,7 @@ The Pro version automatically creates organized timeline groups:
 ## 🔄 Version History
 
 ### Version 1.0.0 (Current)
-- Initial release with Free and Pro versions
+- Initial release with Trial and Pro versions
 - Multi-axis slicing support (Pro)
 - Timeline organization (Pro)
 - Custom naming patterns (Pro)
