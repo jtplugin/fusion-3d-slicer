@@ -1,4 +1,4 @@
-# 3D Slicer Pro for Autodesk® Fusion®
+# JT 3D Slicer Pro for Autodesk® Fusion®
 
 > Professional 3D slicing plugin for laser cutting preparation
 
