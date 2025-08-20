@@ -3,7 +3,7 @@
 > Professional 3D slicing plugin for laser cutting preparation
 
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
-[![Fusion](https://img.shields.io/badge/Fusion%20360-2.0.18000%2B-blue.svg)](https://www.autodesk.com/products/fusion-360)
+[![Fusion](https://img.shields.io/badge/Fusion-2.0.18000%2B-blue.svg)](https://www.autodesk.com/products/fusion-360)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/jtplugin/fusion-3d-slicer/releases)
 
 ## 🎬 Demo Video
