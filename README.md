@@ -1,4 +1,4 @@
-# 3D Slicer Pro for Fusion 360
+# 3D Slicer Pro for Autodesk® Fusion®
 
 > Professional 3D slicing plugin for laser cutting preparation
 
