@@ -3,8 +3,8 @@
 > Professional 3D slicing plugin for laser cutting preparation
 
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
-[![Fusion 360](https://img.shields.io/badge/Fusion%20360-2.0.18000%2B-blue.svg)](https://www.autodesk.com/products/fusion-360)
-[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/jtplugin/fusion360-3d-slicer/releases)
+[![Fusion](https://img.shields.io/badge/Fusion%20360-2.0.18000%2B-blue.svg)](https://www.autodesk.com/products/fusion-360)
+[![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/jtplugin/fusion-3d-slicer/releases)
 
 ## 🎬 Demo Video
 
@@ -135,8 +135,8 @@ https://github.com/jtplugin/fusion360-3d-slicer/assets/demo-3d-slicer-pro.mp4
 - **FAQ**: [Common Questions](docs/FAQ.md)
 
 ### **Community**
-- **Issues**: [Report bugs](https://github.com/jtplugin/fusion360-3d-slicer/issues)
-- **Discussions**: [Feature requests](https://github.com/jtplugin/fusion360-3d-slicer/discussions)
+- **Issues**: [Report bugs](https://github.com/jtplugin/fusion-3d-slicer/issues)
+- **Discussions**: [Feature requests](https://github.com/jtplugin/fusion-3d-slicer/discussions)
 - **Email**: [gianni.tommasi@gmail.com](mailto:gianni.tommasi@gmail.com)
 
 ### **Professional Support**
@@ -160,7 +160,7 @@ For commercial projects and custom development:
 
 ## 🔒 Privacy & Security
 
-This plugin operates entirely locally within Fusion 360:
+This plugin operates entirely locally within Fusion:
 - ✅ **No data collection** or transmission
 - ✅ **No internet connection** required
 - ✅ **Your designs stay private** on your computer
@@ -204,7 +204,7 @@ This plugin operates entirely locally within Fusion 360:
 
 ## ⭐ Reviews
 
-*"Finally, a professional solution for laser cutting preparation in Fusion 360!"*
+*"Finally, a professional solution for laser cutting preparation in Fusion!"*
 *"Saves hours of manual work - essential for any maker!"*
 *"Clean interface, reliable results, exactly what I needed."*
 
@@ -215,4 +215,4 @@ This plugin operates entirely locally within Fusion 360:
 
 ---
 
-*Made with ❤️ for the Fusion 360 community*
+*Made with ❤️ for the Fusion community*
