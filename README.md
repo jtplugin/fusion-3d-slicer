@@ -3,12 +3,12 @@
 > Professional 3D slicing plugin for laser cutting preparation
 
 [![License](https://img.shields.io/badge/license-Proprietary-red.svg)](LICENSE)
-[![Fusion](https://img.shields.io/badge/Fusion-2.0.18000%2B-blue.svg)](https://www.autodesk.com/products/fusion-360)
+[![Fusion](https://img.shields.io/badge/Fusion-2.0.18000%2B-blue.svg)](https://www.autodesk.com/products/fusion)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/jtplugin/fusion-3d-slicer/releases)
 
 ## 🎬 Demo Video
 
-https://github.com/jtplugin/fusion360-3d-slicer/assets/demo-3d-slicer-pro.mp4
+https://github.com/jtplugin/fusion-3d-slicer/assets/demo-3d-slicer-pro.mp4
 
 *Transform 3D models into laser-cut parts with professional precision*
 
@@ -38,11 +38,11 @@ https://github.com/jtplugin/fusion360-3d-slicer/assets/demo-3d-slicer-pro.mp4
 1. Download from [Autodesk App Store](https://apps.autodesk.com) *(coming soon)*
 2. Or install manually:
    - Download latest release
-   - Extract to Fusion 360 Add-ins folder
-   - Restart Fusion 360
+   - Extract to Fusion Add-ins folder
+   - Restart Fusion 
 
 ### Usage
-1. **Open** your 3D model in Fusion 360
+1. **Open** your 3D model in Fusion 
 2. **Modify** → **3D Slicer Pro**
 3. **Select** body to slice
 4. **Choose** axis and thickness
@@ -90,7 +90,7 @@ https://github.com/jtplugin/fusion360-3d-slicer/assets/demo-3d-slicer-pro.mp4
 ## ⚙️ Technical Specifications
 
 ### **Requirements**
-- **Fusion 360**: Version 2.0.18000 or newer
+- **Fusion **: Version 2.0.18000 or newer
 - **Operating System**: Windows 10/11, macOS 10.15+
 - **Memory**: 4GB RAM minimum, 8GB recommended
 - **Storage**: 10MB for plugin installation
@@ -103,9 +103,9 @@ https://github.com/jtplugin/fusion360-3d-slicer/assets/demo-3d-slicer-pro.mp4
 - **Custom materials**: Any thickness 0.1-50mm
 
 ### **Output Format**
-- Native Fusion 360 bodies
+- Native Fusion  bodies
 - Ready for CAM operations
-- Compatible with all Fusion 360 export formats
+- Compatible with all Fusion  export formats
 
 ## 🛠️ Advanced Features
 
