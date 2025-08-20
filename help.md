@@ -1,14 +1,14 @@
 # JT 3D Slicer - User Guide
 
 **Version:** 1.0.0  
-**Compatible with:** Autodesk Fusion  
+**Compatible with:** Autodesk® Fusion®  
 **Developer:** Giovanni Tommasi - JT Plugin Development
 
 ---
 
 ## 📋 Overview
 
-JT 3D Slicer is a powerful plugin for Autodesk Fusion that enables you to slice 3D bodies into multiple parts along specified axes. Perfect for laser cutting, CNC machining, 3D printing preparation, and manufacturing workflows where you need to split objects into manageable pieces.
+JT 3D Slicer is a powerful plugin for Autodesk® Fusion® that enables you to slice 3D bodies into multiple parts along specified axes. Perfect for laser cutting, CNC machining, 3D printing preparation, and manufacturing workflows where you need to split objects into manageable pieces.
 
 The plugin is available in two versions:
 - **Trial Version:** Basic slicing with limitations
@@ -19,7 +19,7 @@ The plugin is available in two versions:
 ## 🚀 Quick Start Guide
 
 ### Step 1: Access the Plugin
-1. Open Autodesk Fusion
+1. Open Fusion
 2. Navigate to the **SOLID** workspace
 3. In the **CREATE** panel, locate the **JT 3D Slicer** button
 4. Click the button to launch the slicing dialog
@@ -103,7 +103,7 @@ The Pro version unlocks the full potential of 3D slicing:
 ### Slice Thickness Configuration
 - **Minimum Thickness:** 0.01cm (0.1mm)
 - **Maximum Thickness:** 10cm
-- **Units:** Uses current Fusion 360 document units
+- **Units:** Uses current Fusion document units
 - **Smart Calculation:** Plugin calculates optimal slice count
 - **Warnings:** Alerts for very thin slices or excessive slice counts
 
